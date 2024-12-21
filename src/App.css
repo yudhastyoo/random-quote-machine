@@ -84,6 +84,9 @@ body {
   transition: 100ms ease;
 }
 
-.watermark span {
+.watermark a {
   font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  color: #ffb70b;
 }

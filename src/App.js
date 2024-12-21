@@ -46,7 +46,13 @@ function App() {
         </div>
       </div>
       <div className="watermark">
-        By <span>Yudha Papua Setyo Atmaji</span>
+        By{" "}
+        <a
+          href="https://github.com/yudhastyoo/random-quote-machine.git"
+          target="_blank"
+        >
+          Yudha Papua Setyo Atmaji
+        </a>
       </div>
     </div>
   );
